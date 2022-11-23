@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <h1>Photography Portfolio</h1>
       <MainDisplay />
     </div>
   );
