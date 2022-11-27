@@ -7,17 +7,17 @@ function NavSidebar() {
     <div className="sidebars">
       <div className="header">
         <img src={me}></img>
-        <h5>Slavography</h5>
+        <h5>slavography</h5>
       </div>
       <ul className="nav-items">
         <li>
-          <a>Example 1</a>
+          <a>example 1</a>
         </li>
         <li>
-          <a>Example 2</a>
+          <a>example 2</a>
         </li>
         <li>
-          <a>Example 3</a>
+          <a>example 3</a>
         </li>
       </ul>
     </div>
