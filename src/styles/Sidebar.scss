@@ -2,4 +2,20 @@
   height: 100%;
   background-color: aqua;
   width: 15%;
+  padding-top: 10px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+  }
+}
+
+.nav-items {
+  list-style: none;
 }
