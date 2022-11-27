@@ -11,13 +11,13 @@ function NavSidebar() {
       </div>
       <ul className="nav-items">
         <li>
-          <a>example 1</a>
+          <a href="">example 1</a>
         </li>
         <li>
-          <a>example 2</a>
+          <a href="">example 2</a>
         </li>
         <li>
-          <a>example 3</a>
+          <a href="">example 3</a>
         </li>
       </ul>
     </div>
