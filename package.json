@@ -11,6 +11,7 @@
     "react-bootstrap": "^2.6.0",
     "react-bootstrap-sidebar-menu": "^2.0.3",
     "react-dom": "^18.2.0",
+    "react-pro-sidebar": "^1.0.0-alpha.7",
     "react-scripts": "5.0.1",
     "sas": "^3.0.4",
     "sass": "^1.56.1",

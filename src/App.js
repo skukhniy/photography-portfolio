@@ -1,13 +1,13 @@
 import MainDisplay from './components/MainDisplay';
-import NavBar from './components/Sidebar';
+import NavBar from './components/NavSidebar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles/App.scss';
-import Sidebar from './components/Sidebar';
+import NavSidebar from './components/NavSidebar';
 
 function App() {
   return (
     <div className="App">
-      <Sidebar />
+      <NavSidebar />
       <MainDisplay />
     </div>
   );
