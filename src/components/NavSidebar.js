@@ -11,7 +11,7 @@ function NavSidebar() {
       </div>
       <ul className="nav-items">
         <li>
-          <a href="">example 1</a>
+          <a>dropdown 1</a>
         </li>
         <li>
           <a href="">example 2</a>
